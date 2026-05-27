@@ -1,6 +1,6 @@
 # Blazor Scheduler Clipboard
 
-A demonstration of copy-and-paste functionality between a Blazor Grid and Scheduler component, built with UI components in a .NET 8 Blazor Web App.
+A demonstration of copy-and-paste functionality between a [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) and [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component, built with UI components in a .NET 8 Blazor Web App.
 
 ## Overview
 
@@ -43,8 +43,7 @@ cd Copy-and-Paste-Grid-data-to-Blazor-Scheduler
 
 ## References
 
-- [Blazor DataGrid Documentation](https://www.syncfusion.com/blazor-components/blazor-datagrid)
-- [ASP.NET Core Documentation](https://learn.microsoft.com/en-us/aspnet/core)
-- [Blazor Documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor)
-- [Syncfusion Blazor Scheduler - Clipboard](https://blazor.syncfusion.com/documentation/scheduler/clipboard)
-- [.NET 8 Blazor Web App](https://learn.microsoft.com/aspnet/core/blazor/?view=aspnetcore-8.0)
+- [Blazor Documentation](https://blazor.syncfusion.com/documentation/introduction)
+- [Blazor DataGrid Documentation](https://blazor.syncfusion.com/documentation/datagrid/getting-started-with-web-app)
+- [Blazor Scheduler Documentation](https://blazor.syncfusion.com/documentation/scheduler/getting-started-webapp)
+- [Online Scheduler Demo](https://blazor.syncfusion.com/demos/scheduler/overview?theme=fluent2)
